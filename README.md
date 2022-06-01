@@ -1,6 +1,6 @@
 ### Fala ai pessoal! Eu sou o Bruno Pires
 
-- 🔭 Hejo estou trabalhando com desenvolvimento de ferrementa de gestão de preço de venda
+- 🔭 Trabalhando com desenvolvimento de ferrementa de gestão de preço de venda
 - 🌱 Estudando C# (CSharp)
 - 📫 Meu E-Mail: bspires19@gmail.com
 
@@ -12,6 +12,7 @@
   
 <div style="display: inline_block"><br>
 <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="right"  height="120" style="border-radius:100px;" src="https://media.discordapp.net/attachments/806195075369140227/981702574589751326/QUmL.gif?width=335&height=390">
 </div>
   
 ##
@@ -22,4 +23,6 @@
  	<a href="https://www.twitch.tv/tekpixxxx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href = "mailto:bspires19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eng-mat-bruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+
   
